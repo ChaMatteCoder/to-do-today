@@ -21,7 +21,7 @@ A modern, responsive task management application designed to help you organize y
 
 ## 🚀 Live Demo
 
-[**View Live Demo**](https://chamattecoder.github.io/to-do-today) *← Add your deployment link here*
+[**View Live Demo**](https://to-do-today-alpha.vercel.app)
 
 ## 🛠️ Technologies Used
 
@@ -55,25 +55,45 @@ The app will open in your browser at http://localhost:3000.
 ## 🎨 Project Structure
 
 to-do-today/
+
 ├── public/
+
 │   ├── index.html
+
 │   └── manifest.json
+
 ├── src/
+
 │   ├── components/
+
 │   │   ├── AddTodo/
+
 │   │   ├── TodoList/
+
 │   │   ├── TodoItem/
+
 │   │   ├── Filters/
+
 │   │   ├── Dashboard/
+
 │   │   └── ProgressBar/
+
 │   ├── context/
+
 │   │   └── ThemeContext.js
+
 │   ├── config/
+
 │   │   └── fontAwesome.js
+
 │   ├── App.js
+
 │   ├── App.css
+
 │   └── index.js
+
 ├── README.md
+
 └── package.json
 
 
